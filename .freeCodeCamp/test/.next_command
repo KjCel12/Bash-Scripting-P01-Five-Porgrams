@@ -43,3 +43,4 @@ touch questionnaire.sh
 \c
 sh questionnaire.sh
 bash questionnaire.sh
+which bash
