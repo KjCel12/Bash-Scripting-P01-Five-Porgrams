@@ -486,3 +486,4 @@ echo $VAR
 [[ $QUESTION =~ \?$ ]]
 ./fortune.sh
 ./fortune.sh
+./fortune.sh
