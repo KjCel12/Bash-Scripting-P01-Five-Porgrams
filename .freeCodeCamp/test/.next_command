@@ -465,3 +465,4 @@ echo ${RESPONSES[5]}
 ./fortune.sh
 HELP
 help
+help function
