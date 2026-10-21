@@ -429,3 +429,5 @@ echo $I
 (( I++ ))
 echo I
 echo $I
+help let
+__vsc_prompt_cmd_original
