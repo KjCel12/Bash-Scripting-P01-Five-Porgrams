@@ -485,3 +485,4 @@ echo $VAR
 [[ test? =~ \?$ ]]
 [[ $QUESTION =~ \?$ ]]
 ./fortune.sh
+./fortune.sh
