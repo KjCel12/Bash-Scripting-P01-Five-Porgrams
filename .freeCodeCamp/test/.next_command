@@ -312,3 +312,5 @@ trap '__vsc_preexec_all "$_"' DEBUG
 __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 ./countdownt.sh 1
 ./countdown.sh 1
+./countdown.sh 3
+./countdown.sh 0
