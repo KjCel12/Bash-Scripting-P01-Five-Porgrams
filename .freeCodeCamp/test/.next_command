@@ -536,3 +536,4 @@ chmod +x five.sh
 clear
 ./dive.sh
 ./five.sh
+help
