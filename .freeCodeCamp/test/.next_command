@@ -463,3 +463,5 @@ declare -p ARR
 echo ${ARR[<index>]}
 echo ${RESPONSES[5]}
 ./fortune.sh
+HELP
+help
