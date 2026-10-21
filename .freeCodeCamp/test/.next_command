@@ -537,3 +537,5 @@ clear
 ./dive.sh
 ./five.sh
 help
+type
+help type
