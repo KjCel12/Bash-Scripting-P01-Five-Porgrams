@@ -534,3 +534,5 @@ touch five.sh
 chmod +x five.sh
 ./five.sh
 clear
+./dive.sh
+./five.sh
