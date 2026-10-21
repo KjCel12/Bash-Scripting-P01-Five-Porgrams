@@ -419,3 +419,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 printenv
 echo $LANG
 declare -p
+echo $RANDOM
