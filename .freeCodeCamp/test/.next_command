@@ -317,3 +317,4 @@ __vsc_original_prompt_command=${PROMPT_COMMAND:-}
 help
 ./countdown.sh 10
 help
+ls --color=auto /
